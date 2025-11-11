@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>CSB, Queen's University Belfast</a>. 16A Malone Rd, Belfast BT9 5BN
 
 profile:
   align: right
