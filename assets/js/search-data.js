@@ -440,18 +440,26 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-one-paper-accepted-at-dac-2025",
+          title: 'One paper accepted at DAC 2025',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-two-first-papers-accepted-at-aaai-2025",
+          title: 'Two first papers accepted at AAAI 2025 🔥🚀',
+          description: "",
+          section: "News",},{id: "news-a-paper-accepted-at-tmlr-with-featured-certification-and-j2c-certification",
+          title: 'A paper accepted at TMLR with Featured Certification,and J2C Certification',
+          description: "",
+          section: "News",},{id: "news-one-paper-accepted-at-neurips-2025",
+          title: 'One paper accepted at NeurIPS 2025',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+              window.location.href = "/news/announcement_4/";
+            },},{id: "news-one-paper-accepted-at-aaai-2026",
+          title: 'One paper accepted at AAAI 2026',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_5/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
