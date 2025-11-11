@@ -1,7 +1,7 @@
 ---
 layout: post
 title: One paper accepted at AAAI 2026
-date: 2025-11-3 
+date: 2025-11-3
 inline: false
 related_posts: false
 ---

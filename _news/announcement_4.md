@@ -1,7 +1,7 @@
 ---
 layout: post
 title: One paper accepted at NeurIPS 2025
-date: 2025-9-18 
+date: 2025-9-18
 inline: false
 related_posts: false
 ---
