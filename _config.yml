@@ -4,7 +4,7 @@
 
 title: Duckie Ducks Group # the website title (if blank, full name will be used instead)
 first_name: Duckie Ducks
-middle_name: 
+middle_name:
 last_name: Group
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
@@ -116,7 +116,7 @@ giscus:
   lang: en
 
 # Disqus comments (DEPRECATED)
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: DuckieDucksGroup # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
